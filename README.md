@@ -20,3 +20,11 @@ Abstract: This paper presents a model of repo intermediation in which dealers in
 
 
 Keywords: Rehypothecation; Repo; Dealer; Liquidity; Default; Collateral
+
+## 2) [Clearing prices under margin calls and the short squeeze](https://arxiv.org/abs/2102.02176)
+[Link to PDF](https://arxiv.org/pdf/2102.02176.pdf)
+
+
+Abstract: In this paper, we propose a clearing model for prices in a financial markets due to margin calls on short sold assets. In doing so, we construct an explicit formulation for the prices that would result immediately following asset purchases and a margin call. The key result of this work is the determination of a threshold short interest ratio which, if exceeded, results in the discontinuity of the clearing prices due to a feedback loop. This model and threshold short interest ratio is then compared with data from early 2021 to consider the observed price movements of GameStop, AMC, and Naked Brand which have been targeted for a short squeeze by retail investors and, prominently, by the online community r/WallStreetBets.
+
+Keywords:Clearing prices under margin calls and the short squeeze
