@@ -2,7 +2,9 @@
 A small collection of Financial academic paper (that maybe relevant for GME dd?)
 
 # Papers:
-## 1) Liquidity windfalls: The consequences of repo rehypothecation
+## 1) [Liquidity windfalls: The consequences of repo rehypothecation](https://github.com/undefined-vars/gme-dd-academic-papers/blob/main/Infante_2019_Liquidity_Windfalls.pdf)
+[Link to PDF](https://github.com/undefined-vars/gme-dd-academic-papers/blob/main/Infante_2019_Liquidity_Windfalls.pdf)
+
 Sebastian Infante,
 Liquidity windfalls: The consequences of repo rehypothecation,
 Journal of Financial Economics,
